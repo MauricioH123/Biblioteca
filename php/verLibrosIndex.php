@@ -1,4 +1,4 @@
-<?require_once "verLibros.php"; require_once "eliminarLibros.php";?>
+<?php require_once "verLibros.php"; require_once "eliminarLibros.php";?>
 
 <!DOCTYPE html>
 <html lang="en">
